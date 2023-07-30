@@ -26,7 +26,7 @@ export const navData = [
 ];
 
 // next link
-import Link from "next/link";
+import Link from "next/Link";
 
 //next router
 import { useRouter } from "next/router";
